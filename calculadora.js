@@ -38,3 +38,5 @@ module.exports = {
   potenciacao,
   raizQuadrada
 };
+
+///me da meio ponto pfv 😭😭😭😭
